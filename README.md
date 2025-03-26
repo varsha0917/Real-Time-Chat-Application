@@ -41,14 +41,27 @@ This will run the application on `http://localhost:3000/`.
 ## Project Structure
 
 chat-app/
-│-- src/
-│   │-- components/
-│   │   │-- Chat.js  # Chat UI and WebSocket logic
-│   │-- App.js  # Main component
-│-- public/
-│-- package.json  # Project dependencies
-│-- README.md  # Documentation
 
+
+│-- src/
+
+
+│   │-- components/
+
+
+│   │   │-- Chat.js  # Chat UI and WebSocket logic
+
+
+│   │-- App.js  # Main component
+
+
+│-- public/
+
+
+│-- package.json  # Project dependencies
+
+
+│-- README.md  # Documentation
 
 ## How It Works
 1. The user enters a message in the input box.
