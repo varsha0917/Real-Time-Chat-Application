@@ -42,24 +42,17 @@ This will run the application on `http://localhost:3000/`.
 
 chat-app/
 
-
 │-- src/
-
 
 │   │-- components/
 
-
 │   │   │-- Chat.js  # Chat UI and WebSocket logic
-
 
 │   │-- App.js  # Main component
 
-
 │-- public/
 
-
 │-- package.json  # Project dependencies
-
 
 │-- README.md  # Documentation
 
