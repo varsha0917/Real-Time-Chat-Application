@@ -27,7 +27,7 @@ This is a **real-time chat application** built using **React.js** and **WebSocke
 
 ## Installation & Setup
 ### 1. Clone the Repository
-git clone https://github.com/your-username/chat-app.git
+git clone https://github.com/varsha0917/chat-app.git
 cd chat-app
 
 ### 2. Install Dependencies
